@@ -1,2 +1,3 @@
 ansible-learning.pem
 .vagrant
+*.retry
